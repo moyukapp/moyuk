@@ -1,0 +1,12 @@
+{
+  "name": "@moyuk/lp",
+  "version": "1.0.0",
+  "description": "Moyuk landing page (terminated)",
+  "private": true,
+  "scripts": {
+    "dev": "npx http-server . -p 3001 -c-1"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
